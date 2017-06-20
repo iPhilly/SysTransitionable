@@ -1,4 +1,4 @@
-# SysTran
+# SysTransitionable
 
 ## Usage
 
